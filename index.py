@@ -159,7 +159,7 @@ def about():
 
     ab = Toplevel(root)
 
-    txt = "KS Notes\n(C) This application is licensed under Apache License v2.0\n http://sites.google.com/view/kushagras/applications "
+    txt = "KS Notes\n(C) This application is licensed under Apache License v2.0\n https://sites.google.com/view/kushagras/applications "
 
     la = Label(ab,text=txt,foreground='black')
 
