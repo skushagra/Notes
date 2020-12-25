@@ -182,8 +182,8 @@ root.geometry('900x900+300+300')
 
 menu = Menu(root)
 root.config(bg='#000000', menu=menu)
-
-
+photo = PhotoImage(file='D:\\Kushagra\\Appliocation Icons\\Notes.png')
+root.iconphoto(True, photo)
 
 filemenu = Menu(root)
 
