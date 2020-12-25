@@ -1,17 +1,3 @@
-'''
-import tkinter
-from tkinter import *
-root = tkinter.Tk()
-root.geometry("400x400+300+300") 
-root.minsize(height=560) 
-root.title("KS Notes")
-scrollbar = Scrollbar(root)
-scrollbar.pack(side=RIGHT, fill=Y)
-text_info = Text(root, yscrollcommand=scrollbar.set)
-text_info.pack(fill=BOTH)
-scrollbar.config(command=text_info.yview)
-root.mainloop()
-'''
 import tkinter
 from tkinter import *
 
@@ -173,9 +159,9 @@ def about():
 
     ab = Toplevel(root)
 
-    txt = "KS Notes\n(C)\n http://sites.google.com/view/siliconsys "
+    txt = "KS Notes\n(C) This application is licensed under Apache License v2.0\n http://sites.google.com/view/kushagras/applications "
 
-    la = Label(ab,text=txt,foreground='blue')
+    la = Label(ab,text=txt,foreground='black')
 
     la.pack()
 
@@ -312,7 +298,3 @@ text.bind('Ctrl+v', paste)
 # root.resizable(0,0)
 
 root.mainloop()
-
-
-
-
