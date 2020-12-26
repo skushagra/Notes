@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## KushagraS Notes Application
 
-You can use the [editor on GitHub](https://github.com/skushagra/Notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a open source notepad app which can be used write text documents, code(though there is no integration for languages yet) etc. Also you can see more about app and install [here](https://sites.google.com/kushagras/appliactions/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skushagra/Notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Bugs and issues
+If you find any bug you can report [here](https://forms.gle/XX9ABkFThw4fKBcm7), create an issue on Github, email [me](mailto:kushagra.rigel@gmail.com), get to know more [here](https://sites.google.com/view/kushagras/contact).
